@@ -2,6 +2,7 @@
 > Predicting 2026 Smartphone Market Trends using XGBoost.
 
 ### 🌐 [View Live Interactive Research](https://anshu-builds.github.io/TechScout-AI/)
+### 🌐 [View Live Link](https://anshu-builds-techscout-ai-app.streamlit.app/)
 
 ## 🚀 The Mission
 In a rapidly evolving 2026 tech landscape, traditional pricing is dead. I built an AI Agent to identify **"Flagship Killers"**—phones that offer premium specs (NPU/AI Power) at budget prices.
